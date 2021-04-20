@@ -1,5 +1,6 @@
 # TestPRRepo
 
+My bugfix changes to be merged into dev
 ## PR Rules
 	The dev who created the PR is responsible for:
 		1) Requesting reviews
