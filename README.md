@@ -1,5 +1,6 @@
 # TestPRRepo
-# PR Rules
+
+## PR Rules
 	The dev who created the PR is responsible for:
 		1) Requesting reviews
 		2) Resolving/implementing comments
